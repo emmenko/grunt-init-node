@@ -1,6 +1,6 @@
 # grunt-init-node
 
-> Create a Node.js module with [grunt-init][], including Coffeescript development and Jasmine unit tests.
+> Create a Node.js module with [grunt-init][], including Coffeescript development, [Jasmine](http://pivotal.github.io/jasmine/) unit tests and [Coveralls](https://coveralls.io/) support.
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 

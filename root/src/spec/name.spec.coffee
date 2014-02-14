@@ -4,7 +4,7 @@
 
 describe 'Awesome', ->
 
-  beforeEach (done)->
+  beforeEach (done) ->
     # setup here
     done()
 
