@@ -58,11 +58,11 @@ exports.template = function(grunt, init, done) {
       'grunt-bump': '~0.0.13',
       'grunt-coffeelint': '~0.0.8',
       'grunt-contrib-clean': '~0.5.0',
-      'grunt-contrib-coffee': '~0.10.0',
+      'grunt-contrib-coffee': '~0.10.1',
       'grunt-contrib-concat': '~0.3.0',
       'grunt-contrib-watch': '~0.5.3',
       'grunt-shell': '~0.6.4',
-      'istanbul': '~0.2.4',
+      'istanbul': '~0.2.6',
       'jasmine-node': '~1.13.1',
       'sphere-coffeelint': 'git://github.com/sphereio/sphere-coffeelint.git#master'
     };
